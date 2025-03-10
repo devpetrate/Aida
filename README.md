@@ -26,19 +26,3 @@ Run:
 npm run start
 ```
 
-```
-apt install screen
-```
-
-```
-screen -S ai
-```
-To run script in endless loop:
-```
-chmod +x bot.sh && ./bot.sh
-```
-To run once:
-```
-node main.js
-```
-
